@@ -6,8 +6,10 @@
 
 ## Refactoring the code helped determine if the effort was worth the outcome, and it was. 
 ![2017 Original Run](https://user-images.githubusercontent.com/106329824/175457753-48832307-4022-4060-a1bf-2a946df20c1f.png)
+
 This is the run time of the original code.
 ![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/106329824/175457821-d598643a-4c17-42b9-a543-45d135d4b6a3.png)
+
 This is the run time of the refactored code.
 As we can see, refactoring it made it 0.41 seconds faster. 
 
