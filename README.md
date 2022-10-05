@@ -1,6 +1,6 @@
 # Overview of Project
 
-## We analyzed and organized the stock market data for 2017 and 2018 per Steve's request. To create easy and digestable material, we used VBA. Combing through the date, we combinded like tickers, inserted mathmatical equations, and color coding values for a quick understanding. This project was to see the difference between a shorter, more efficient code and the first code we created. We analyzed the difference between original code and the refactored.
+## We analyzed and organized the stock market data for 2017 and 2018 per Steve's request. To create easy and digestable material, we used VBA. Combing through the date, we combined like tickers, inserted mathematical equations, and color coding values for a quick understanding. This project was to see the difference between a shorter, more efficient code and the first code we created. We analyzed the difference between original and refactored code.
 
 # Results
 
